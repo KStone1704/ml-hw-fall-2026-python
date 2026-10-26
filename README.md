@@ -32,3 +32,7 @@ Tests cover first/middle/last positions, missing values, duplicate values, negat
 - `tests/test_module4.py`: standard-library tests.
 
 The repository contains only this learning exercise. It does not include employer code or data.
+
+## Assistance
+
+This project was completed with assistance from OpenAI Codex.
